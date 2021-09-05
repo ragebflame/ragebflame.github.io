@@ -13,11 +13,6 @@ This Spirit lineup is fantastic. Just needs to work on communication, aim, map a
 
 ---
 
-![Die Skatpartie by Josef Wagner-Höhenberg](/assets/img/uploads/test.jpeg)
-_"Die Skatpartie" by Josef Wagner-Höhenberg_
-
-![Witness it](/assets/img/remote/wishlist.webp)
-
 When I die, I want Navi to lower me into my grave, so I can be let down one last time.
 
 ---
