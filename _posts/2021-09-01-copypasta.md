@@ -1,0 +1,49 @@
+---
+title: CopyPasta 🍝
+tags:
+    - memes
+layout: post
+excerpt: Only the best copy pasta's to excite the tastebuds
+summary: Use only when needed
+---
+
+### CSGO
+
+This Spirit lineup is fantastic. Just needs to work on communication, aim, map awareness, crosshair placement, economy management, pistol aim, awp flicks, grenade spots, smoke spots, pop flashes, positioning, bomb plant positions, retake ability, bunny hopping, spray control and getting a kill.
+
+---
+
+![Die Skatpartie by Josef Wagner-Höhenberg](/assets/img/uploads/test.jpeg)
+_"Die Skatpartie" by Josef Wagner-Höhenberg_
+
+![Witness it](/assets/img/remote/wishlist.webp)
+
+When I die, I want Navi to lower me into my grave, so I can be let down one last time.
+
+---
+
+Fallen is a tactical genius. He is best known for his signature tactic of "going B and then lose vs eco. He also has a second little known tactic of "Going A and then throw a 1v4" What an absolute legend. Top 3 IGL for sure.
+
+---
+
+I've been there since the beginning. Every map, every frag, every moment. I run but I never hide. With knowledge comes power, and power is to be wielded wisely. Which is why, as the expert, I bet with Betway. If you know CS:GO, then you know the best way to bet on e-sports, is with Betway. For the love of the game.
+
+### A-team
+
+10 years ago a crack commando unit was sent to prison by a military court for a crime they didn't commit. These men promptly escaped from a maximum security stockade to the Los Angeles underground. Today, still wanted by the government, they survive as soldiers of fortune. If you have a problem, if no one else can help, and if you can find them, maybe you can hire the A-Team.
+
+### Merc
+
+The most intelligent E-Class family of all time welcomes a powerful new member to the dynasty. The E400 Sedan model arrives this year, boasting a 3.0L V6 biturbo engine producing 329 hp and 354 lb-ft of torque — the same powertrain that currently drives its E400 Coupe, Cabriolet and 4MATIC Wagon cousins. Paired with the 9-G-TRONIC 9-Speed automatic transmission and DYNAMIC SELECT, it promises a bracingly smooth way to experience uncommon luxury. Naturally, the 2018 E400 Sedan continues the tradition of E-Class brilliance. Harmonizing advanced automotive intelligence with awe-inspiring interior design, its first-class furnished cabin puts our advanced vehicle systems right at your fingertips — even as its world-class innovations continue to push the boundaries of what's possible in the world of automotive intelligence. "Car-to-X" Communication enables the E-Class to exchange information with similarly equipped vehicles — effectively allowing it to "see" around corners and through obstacles to detect potential hazards. Driver Assistance Systems — including Active Distance Assist DISTRONIC®, Active Steering Assist and Active Lane Change Assist — feature intelligent cruise control: They help keep you between the lines, and can even help you shift between them. Inside, the E-Class cabin provides an environment of pure comfort and responsive technology. Flowing lines and vibrant screens provide a striking visual display, while touch controls, aromatherapy and tailored seats indulge all of your senses at once. It's a vehicle that demands to be driven, and more than lives up to the dream. Look for the E400 4MATIC Sedan at your Mercedes-Benz dealership this winter, with an MSRP of $58,900.
+
+### Dota 2
+
+Albert Einstein, one of the greatest minds to ever live, was once perplexed by the speed at which Arteezy was able to farm. Seemingly impossible GPMs of 800+ every game were consistently observed, leading to the hypothesis that this was no fluke. Einstein spent the last years of his life trying to prove the ability of Arteezy's farm existed within the laws of science. Critics laughed at his efforts, claiming that Arteezy's farm was an undeniable act of divine intervention. It wasn't until the end when Einstein found the answer. On his deathbed, Einstein spent the last seconds of his life jotting down what is now the world's most infamous scientific formula. r=tz²
+
+### Classics
+
+What the fuck did you just fucking say about me, you little bitch? I'll have you know I graduated top of my class in the Navy Seals, and I've been involved in numerous secret raids on Al-Quaeda, and I have over 300 confirmed kills. I am trained in gorilla warfare and I'm the top sniper in the entire US armed forces. You are nothing to me but just another target. I will wipe you the fuck out with precision the likes of which has never been seen before on this Earth, mark my fucking words. You think you can get away with saying that shit to me over the Internet? Think again, fucker. As we speak I am contacting my secret network of spies across the USA and your IP is being traced right now so you better prepare for the storm, maggot. The storm that wipes out the pathetic little thing you call your life. You're fucking dead, kid. I can be anywhere, anytime, and I can kill you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed combat, but I have access to the entire arsenal of the United States Marine Corps and I will use it to its full extent to wipe your miserable ass off the face of the continent, you little shit. If only you could have known what unholy retribution your little "clever" comment was about to bring down upon you, maybe you would have held your fucking tongue. But you couldn't, you didn't, and now you're paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it. You're fucking dead, kiddo.
+
+---
+
+According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Ooming! Hang on a second. Hello? - Barry? - Adam? - Oan you believe this is happening? - I can't. I'll pick you up. Looking sharp. Use the stairs. Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. - You got lint on your fuzz. - Ow! That's me! - Wave to us! We'll be in row 118,000. - Bye! Barry, I told you, stop flying in the house! - Hey, Adam. - Hey, Barry. - Is that fuzz gel? - A little. Special day, graduation. Never thought I'd make it. Three days grade school, three days high school. Those were awkward. Three days college. I'm glad I took a day and hitchhiked around the hive. You did come back different. - Hi, Barry. - Artie, growing a mustache? Looks good. - Hear about Frankie? - Yeah. - You going to the funeral? - No, I'm not going. Everybody knows, sting someone, you die. Don't waste it on a squirrel. Such a hothead. I guess he could have just gotten out of the way. I love this incorporating an amusement park into our day. That's why we don't need vacations. Boy, quite a bit of pomp... under the circumstances. - Well, Adam, today we are men. - We are! - Bee-men. - Amen! Hallelujah! Students, faculty, distinguished bees, please welcome Dean Buzzwell. Welcome, New Hive Oity graduating class of... ...9:15. That concludes our ceremonies. And begins your career at Honex Industries! Will we pick ourjob today? I heard it's just orientation. Heads up! Here we go. Keep your hands and antennas inside the tram at all times. - Wonder what it'll be like? - A little scary. Welcome to Honex, a division of Honesco and a part of the Hexagon Group. This is it! Wow. Wow. We know that you, as a bee, have worked your whole life to get to the point where you can work for your whole life. Honey begins when our valiant Pollen Jocks bring the nectar to the hive. Our top-secret formula is automatically color-corrected, scent-adjusted and bubble-contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey! - That girl was hot. - She's my cousin! - She is? - Yes, we're all cousins. - Right. You're right. - At Honex, we constantly strive to improve every aspect of bee existence. These bees are stress-testing a new helmet technology. - What do you think he makes? - Not enough. Here we have our latest advancement, the Krelman. - What does that do? - Oatches that little strand of honey that hangs after you pour it. Saves us millions. Oan anyone work on the Krelman? Of course. Most bee jobs are small ones. But bees know that every small job, if it's done well, means a lot. But choose carefully because you'll stay in the job you pick for the rest of your life. The same job the rest of your life? I didn't know that. What's the difference? You'll be happy to know that bees, as a species, haven't had one day off in 27 million years. So you'll just work us to death? We'll sure try. Wow! That blew my mind! "What's the difference?" How can you say that? One job forever? That's an insane choice to have to make. I'm relieved. Now we only have to make one decision in life. But, Adam, how could they never have told us that? Why would you question anything? We're bees. We're the most perfectly functioning society on Earth. You ever think maybe things work a little too well here? Like what? Give me one example. I don't know. But you know what I'm talking about. Please clear the gate. Royal Nectar Force on approach. Wait a second. Oheck it out. - Hey, those are Pollen Jocks! - Wow. I've never seen them this close. They know what it's like outside the hive. Yeah, but some don't come back. - Hey, Jocks! - Hi, Jocks! You guys did great! You're monsters! You're sky freaks! I love it! I love it! - I wonder where they were. - I don't know. Their day's not planned. Outside the hive, flying who knows where, doing who knows what. ...

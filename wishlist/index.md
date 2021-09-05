@@ -15,7 +15,7 @@ A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.u
 
 💫*Last updated: 22/06/2021*
 
-![Witness it](/assets/img/remote/wishlist.gif)
+<img src="/assets/img/remote/wishlist.webp" style="width: 100%;">
 
 ### Books 📚
 
