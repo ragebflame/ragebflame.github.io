@@ -26,6 +26,7 @@ A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.u
 - [The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Irish Peaks](https://irishpeaks.ie/products/irish-peaks-2021)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
+- [Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)
 
 ### Tech 👨‍💻
 
