@@ -39,6 +39,7 @@ A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.u
 - [ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - [Keychron keyboards](https://www.keychron.com)
+- [Xtrfy M42 Retro](https://www.amazon.de/-/en/Xtrfy-Modular-Ultralight-Gaming-Mouse/dp/B095KSPSK9/ref=sr_1_2?keywords=XTRFY+M42+RGB+RETRO&qid=1636752594&qsid=260-2200119-6101407&sr=8-2&sres=B07XF84LMG%2CB095KSPSK9%2CB08VRDBY67%2CB09BG67Q3J%2CB08R9VN2XD%2CB09492RD6C%2CB09BG54Z5N%2CB07XC3LMKB%2CB07XB3LFBV%2CB08MZW3C35%2CB095KT8656%2CB07ZG9K5KX%2CB07XC3MTB9%2CB097Q2NYRF%2CB09C6QLTJB%2CB08JZCB4J3&srpt=INPUT_MOUSE)
 
 ##### Compute 💻🎮
 
