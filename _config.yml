@@ -31,6 +31,12 @@ permalink: "/blog/:title/"
 markdown: kramdown
 plugins:
   - jekyll-paginate
+  - kramdown-syntax-coderay
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
