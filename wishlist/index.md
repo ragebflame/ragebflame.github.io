@@ -11,7 +11,7 @@ latest_update: 2021-01-20 19:57:00 +0100
 A list of desired things or occurrences.
 ```
 
-A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
+A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
 💫*Last updated: 22/06/2021*
 
@@ -47,7 +47,7 @@ A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.u
 
 ##### Compute 💻🎮
 
-- 1440p Moniter: ~~[LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)~~
+- 1440p Monitor: ~~[LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)~~
   - Obtained 🙌
 - GPU: [Nvidia GeForce RTX 3080](https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3080-graphics-cards)
 
@@ -58,7 +58,7 @@ A list of items I'd like to obtain. An [Amazon wishlist](https://www.amazon.co.u
 
 ##### Smart Home 🏠
 
-- ❗ Anything Philips Hue Compatable.
+- ❗ Anything Philips Hue Compatible.
 - [Lidl smart home](https://www.lidl.ie/smart-home#1945108)
 
 ### Audio gear 🔊
@@ -109,6 +109,6 @@ This actually is a need.
 No TV and no beer make Homer something something...
 
 - [Whiplash Beer](http://www.whiplashbeer.com/)
-- Samual Adams on Draft 😍
-- [Troube Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
+- Samuel Adams on Draft 😍
+- [Trouble Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
 - Pilsner Urquell
