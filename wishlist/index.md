@@ -21,29 +21,30 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 > a written or printed work consisting of pages glued or sewn together along one side and bound in covers.
 
-- [Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Irish Peaks](https://irishpeaks.ie/products/irish-peaks-2021)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
-- [Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)
+- ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
+- ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
 
 ### Tech 👨‍💻
 
 🤖
 
+- [ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
+- [OAKO Standing desk](https://www.oakodenmark.dk/)
 - ~~[Tile Pro (2020)](https://www.amazon.co.uk/dp/B07W87124X/?coliid=I3Q5XX1FA6M1MB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
   - Obtained 🙌
 - ~~[iFixit Pro Tech Toolkit](https://www.amazon.co.uk/dp/B01GF0KV6G/?coliid=I1KTURGCX817IW&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
   - Obtained 🙌
-- [ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
-- [OAKO Standing desk](https://www.oakodenmark.dk/)
 
-##### Mice / Keyboards 🖱️⌨️
+##### Mice / Keyboards / Mousepads 🖱️⌨️
 
 - [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
 - [Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)
 - [Keychron keyboards](https://www.keychron.com)
+- [LTT Deskpad](https://www.lttstore.com/collections/all-products/products/deskpad)
 
 ##### Compute 💻🎮
 
@@ -55,6 +56,8 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 - [An updated daily front page of The New York Times as artwork on your wall](https://alexanderklopping.medium.com/an-updated-daily-front-page-of-the-new-york-times-as-artwork-on-your-wall-3b28c3261478)
 - [Pwnagotchi: Deep reinforcement learning for wifi pwning!](https://pwnagotchi.ai/)
+- [DIY ISO box](http://www.amptone.com/diyisobox.htm)
+- [PiVPN](https://www.pivpn.io/)
 
 ##### Smart Home 🏠
 
@@ -65,10 +68,10 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 Say what?
 
-- ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - I have these now and they are great. Good sound with great battery life.
 - [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
+- ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - I have these now and they are great. Good sound with great battery life.
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
@@ -85,15 +88,15 @@ Say what?
 
 Sweet black nectar of the gods.
 
-- ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - 🎈 Acquired: Makes great coffee.
-- ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - 🎈 Acquired: Grinds great coffee.
 - [3fe Coffee (Dublin)](https://3fe.com/)
 - [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
 - [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
 - [Velo Coffee (Cork)](https://velocoffee.ie/)
 - [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
+- ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - 🎈 Acquired: Makes great coffee.
+- ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - 🎈 Acquired: Grinds great coffee.
 
 ### Whiskey 🥃
 
@@ -112,3 +115,8 @@ No TV and no beer make Homer something something...
 - Samuel Adams on Draft 😍
 - [Trouble Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
 - Pilsner Urquell
+
+### Threads 👕
+
+- [MKBHD - Histogram](https://cottonbureau.com/products/mkbhd-histogram#/4793229/tee-men-standard-tee-vintage-black-tri-blend-s)
+- [MKBHD - Six Colors](https://cottonbureau.com/products/mkbhd-special-edition-six-colors#/3790005/tee-men-standard-tee-indigo-tri-blend-s)
