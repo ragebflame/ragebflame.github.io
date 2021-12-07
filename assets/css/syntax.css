@@ -5,12 +5,12 @@
   margin: 0;
 }
 .highlight {
-  color: #faf6e4;
   background-color: #252835;
+  color: #faf6e4;
 }
 .highlight .gl {
-  color: #dee5e7;
   background-color: #4e5d62;
+  color: #dee5e7;
 }
 .highlight .gp {
   color: #a8e1fe;
@@ -29,8 +29,8 @@
   color: #b2fd6d;
 }
 .highlight .err {
-  color: #fefeec;
   background-color: #cc0000;
+  color: #fefeec;
 }
 .highlight .gr {
   color: #cc0000;
@@ -58,11 +58,9 @@
 .highlight .ge {
   font-style: italic;
 }
-.highlight .gs {
-}
 .highlight .gt {
-  color: #dee5e7;
   background-color: #4e5d62;
+  color: #dee5e7;
 }
 .highlight .kc {
   color: #f696db;
@@ -147,8 +145,6 @@
 }
 .highlight .si {
   color: #4df4ff;
-}
-.highlight .nb {
 }
 .highlight .ni {
   color: #999999;
