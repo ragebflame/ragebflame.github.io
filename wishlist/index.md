@@ -1,25 +1,18 @@
 ---
 layout: default
 title: Wishlist
-latest_update: 2021-01-20 19:57:00 +0100
+latest_update: 2021-12-07 19:57:00 +0100
 ---
 
 <h1 class="title">Wishlist</h1>
 
-```bash
-#noun
-A list of desired things or occurrences.
-```
-
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 22/06/2021*
+💫*Last updated: 07/12/2021*
 
 <img src="/assets/img/remote/wishlist.webp" style="width: 100%;">
 
 ### Books 📚
-
-> a written or printed work consisting of pages glued or sewn together along one side and bound in covers.
 
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Irish Peaks](https://irishpeaks.ie/products/irish-peaks-2021)
@@ -35,9 +28,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - ~~[ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[Tile Pro (2020)](https://www.amazon.co.uk/dp/B07W87124X/?coliid=I3Q5XX1FA6M1MB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - Obtained 🙌
 - ~~[iFixit Pro Tech Toolkit](https://www.amazon.co.uk/dp/B01GF0KV6G/?coliid=I1KTURGCX817IW&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - Obtained 🙌
 
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
@@ -49,7 +40,6 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Compute 💻🎮
 
 - 1440p Monitor: ~~[LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)~~
-  - Obtained 🙌
 - GPU: [Nvidia GeForce RTX 3080](https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3080-graphics-cards)
 
 ##### Interesting projects 🔬🧰
@@ -66,12 +56,9 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Audio gear 🔊
 
-Say what?
-
 - [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
 - ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - I have these now and they are great. Good sound with great battery life.
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
@@ -86,21 +73,15 @@ Say what?
 
 ### Coffee ☕
 
-Sweet black nectar of the gods.
-
 - [3fe Coffee (Dublin)](https://3fe.com/)
 - [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
 - [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
 - [Velo Coffee (Cork)](https://velocoffee.ie/)
 - [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
 - ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - 🎈 Acquired: Makes great coffee.
 - ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-  - 🎈 Acquired: Grinds great coffee.
 
 ### Whiskey 🥃
-
-This actually is a need.
 
 - [Nikka From The Barrel](https://www.celticwhiskeyshop.com/nikka-from-the-barrel)
 - [Green Spot](https://www.spotwhiskey.com/en-EN/the-whiskeys/greenspot)
@@ -109,14 +90,12 @@ This actually is a need.
 
 ### Beer 🍺
 
-No TV and no beer make Homer something something...
-
 - [Whiplash Beer](http://www.whiplashbeer.com/)
 - Samuel Adams on Draft 😍
 - [Trouble Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
 - Pilsner Urquell
 
-### Threads 👕
+### Other 👕
 
 - [MKBHD - Histogram](https://cottonbureau.com/products/mkbhd-histogram#/4793229/tee-men-standard-tee-vintage-black-tri-blend-s)
 - [MKBHD - Six Colors](https://cottonbureau.com/products/mkbhd-special-edition-six-colors#/3790005/tee-men-standard-tee-indigo-tri-blend-s)
