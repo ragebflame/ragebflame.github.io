@@ -7,7 +7,7 @@ tags:
   - bash
 excerpt: This simple bash script will print the current status of any fail2ban jails on the system.
 summary: A simple bash script to check the status of any fail2ban jails
-image: /assets/img/dan.png
+image: /assets/img/dan.webp
 ---
 
 [Fail2ban](https://www.fail2ban.org/wiki/index.php/Main_Page) is an excellent tool to help ban unwelcome IPs from hitting your services.
