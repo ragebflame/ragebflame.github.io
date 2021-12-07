@@ -40,7 +40,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Compute 💻🎮
 
 - 1440p Monitor: ~~[LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)~~
-- GPU: [Nvidia GeForce RTX 3080](https://www.scan.co.uk/shop/gaming/gpu-nvidia/nvidia-geforce-rtx-3080-graphics-cards)
+- GPU: [Nvidia GeForce RTX 3080](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
 
 ##### Interesting projects 🔬🧰
 
