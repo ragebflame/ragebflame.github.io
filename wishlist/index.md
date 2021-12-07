@@ -10,12 +10,12 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 💫*Last updated: 07/12/2021*
 
-<img src="/assets/img/remote/wishlist.webp" style="width: 100%;">
+<img alt="The list" src="/assets/img/remote/wishlist.webp" style="width: 100%;">
 
 ### Books 📚
 
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
-- [Irish Peaks](https://irishpeaks.ie/products/irish-peaks-2021)
+- [Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
 - ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
@@ -63,10 +63,10 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Instruments / Pedals / Amps 🎸🎹
 
 - [REVV D20 20w Amp](https://www.thomann.de/ie/revv_d20_amp_head_wh.htm)
-- [Universal Audio Apollo](https://www.thomann.de/ie/universal_audio_apollo_twin_x_duo.htm)
+- [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
 - [Two Notes Torpedo Captor](https://www.thomann.de/ie/two_notes_torpedo_captor_x_16.htm)
 - [Kemper Profiling Amplifier](https://www.thomann.de/ie/kemper_profiling_amplifier_bk.htm)
-- [Boss RC-3 Loop pedal](https://www.thomann.de/ie/boss_rc3.htm)
+- [Boss RC-5 Loop pedal](https://www.thomann.de/ie/boss_rc_5_loop_station.htm)
 - [tc electronic Ditto Looper](https://www.thomann.de/ie/tc_electronic_ditto.htm?sid=f92db2229d89b5d5e3f1d49d892f8efb)
 - [Line6 HX Stomp](https://www.thomann.de/ie/line6_hx_stomp.htm)
 - [OP-1 portable synthesizer](https://teenage.engineering/store/op-1/)
@@ -84,8 +84,8 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ### Whiskey 🥃
 
 - [Nikka From The Barrel](https://www.celticwhiskeyshop.com/nikka-from-the-barrel)
-- [Green Spot](https://www.spotwhiskey.com/en-EN/the-whiskeys/greenspot)
-- [Yellow Spot](https://www.spotwhiskey.com/en-EN/the-whiskeys/yellowspot)
+- [Green Spot](https://www.spotwhiskey.com/en/whiskeys/greenspot)
+- [Yellow Spot](https://www.spotwhiskey.com/en/whiskeys/yellowspot)
 - [Redbreast Single Pot](https://www.redbreastwhiskey.com/en-EN/)
 
 ### Beer 🍺
