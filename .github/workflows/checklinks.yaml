@@ -19,7 +19,7 @@ jobs:
           bundle exec htmlproofer --log-level :debug ./_site &> links.log
         continue-on-error: true
       - name: Archive log links
-        uses: actions/upload-artifact@v1
+        uses: actions/upload-artifact@v2
         with:
           name: links-check.log
           path: links.log
