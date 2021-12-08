@@ -56,6 +56,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Audio gear 🔊
 
+- [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)
 - [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
 - ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
