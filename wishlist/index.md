@@ -17,6 +17,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
+- [The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)
 - ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
 - ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
@@ -26,8 +27,9 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 🤖
 
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
+- [Tile Pro (2022)](https://ie.tile.com/product/686597/pro-1-pack)
+- [Raspberry Pi 4 - 8GB](https://ie.farnell.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503)
 - ~~[ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[Tile Pro (2020)](https://www.amazon.co.uk/dp/B07W87124X/?coliid=I3Q5XX1FA6M1MB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[iFixit Pro Tech Toolkit](https://www.amazon.co.uk/dp/B01GF0KV6G/?coliid=I1KTURGCX817IW&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
@@ -52,6 +54,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 - ❗ Anything Philips Hue Compatible.
 - [Lidl smart home](https://www.lidl.ie/smart-home#1945108)
+- [Lenovo Smart Clock 2](https://www.lenovo.com/gb/en/smart-devices/smart-home/smart-home-series/Smart-Clock-Gen-2/p/WMD00000485)
 
 ##### TVs 📺
 
@@ -93,6 +96,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
   - [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
   - [Velo Coffee (Cork)](https://velocoffee.ie/)
+  - [Anam Coffee (Clare)](https://www.anamcoffee.ie/product-category/coffee/)
 - Tech
   - [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
   - ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
