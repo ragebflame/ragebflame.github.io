@@ -53,10 +53,16 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - ❗ Anything Philips Hue Compatible.
 - [Lidl smart home](https://www.lidl.ie/smart-home#1945108)
 
+##### TVs 📺
+
+- 65" or 55"
+  1. [OLED - LG C1](https://www.rtings.com/tv/reviews/lg/c1-oled)
+  2. [QLED - Samsung QN90A](https://www.rtings.com/tv/reviews/samsung/qn90a-qled)
+
 ### Audio gear 🔊
 
 - Headphones
-  1. [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)
+  1. ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
 - Microphones
   1. [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - Interfaces
