@@ -61,14 +61,15 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Audio gear 🔊
 
-- Headphones
-  1. ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
 - Microphones
   1. [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - Interfaces
   1. [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
   2. [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
-- ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+- Headphones
+  1. ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
+- Earphones
+  1. ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
