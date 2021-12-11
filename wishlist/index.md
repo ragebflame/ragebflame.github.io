@@ -32,22 +32,21 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
-- [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
-- [Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)
-- [Keychron keyboards](https://www.keychron.com)
-- [LTT Deskpad](https://www.lttstore.com/collections/all-products/products/deskpad)
+- Mice
+  1. [Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)
+  2. [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
+- Keyboards
+  1. [Keychron Q1](https://www.keychron.com/products/keychron-q1?variant=39405021069401)
+- Mousepads
+  1. [LTT Deskpad - 1000m x 400m](https://www.lttstore.com/collections/all-products/products/deskpad?variant=33074344525927)
+  2. [QCK Heavy - 900m x 400m](https://steelseries.com/gaming-mousepads/qck-heavy-series?size=xxl)
 
 ##### Compute 💻🎮
 
-- 1440p Monitor: ~~[LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)~~
-- GPU: [Nvidia GeForce RTX 3080](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
-
-##### Interesting projects 🔬🧰
-
-- [An updated daily front page of The New York Times as artwork on your wall](https://alexanderklopping.medium.com/an-updated-daily-front-page-of-the-new-york-times-as-artwork-on-your-wall-3b28c3261478)
-- [Pwnagotchi: Deep reinforcement learning for wifi pwning!](https://pwnagotchi.ai/)
-- [DIY ISO box](http://www.amptone.com/diyisobox.htm)
-- [PiVPN](https://www.pivpn.io/)
+- GPUs
+  1. [Nvidia GeForce RTX 3080 Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
+- 1440p Monitors
+  1. [LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)
 
 ##### Smart Home 🏠
 
@@ -56,31 +55,41 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 ### Audio gear 🔊
 
-- [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)
-- [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
-- [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
+- Headphones
+  1. [Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)
+- Microphones
+  1. [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
+- Interfaces
+  1. [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
+  2. [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
 - ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
-- [REVV D20 20w Amp](https://www.thomann.de/ie/revv_d20_amp_head_wh.htm)
-- [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
-- [Two Notes Torpedo Captor](https://www.thomann.de/ie/two_notes_torpedo_captor_x_16.htm)
-- [Kemper Profiling Amplifier](https://www.thomann.de/ie/kemper_profiling_amplifier_bk.htm)
-- [Boss RC-5 Loop pedal](https://www.thomann.de/ie/boss_rc_5_loop_station.htm)
-- [tc electronic Ditto Looper](https://www.thomann.de/ie/tc_electronic_ditto.htm?sid=f92db2229d89b5d5e3f1d49d892f8efb)
-- [Line6 HX Stomp](https://www.thomann.de/ie/line6_hx_stomp.htm)
-- [OP-1 portable synthesizer](https://teenage.engineering/store/op-1/)
+- Loopers ➰
+  1. [tc electronic Ditto + Looper](https://www.thomann.de/ie/tc_electronic_ditto_looper.htm)
+  2. [Boss RC-5 Loop pedal](https://www.thomann.de/ie/boss_rc_5_loop_station.htm)
+- Amps
+  1. [REVV D20 20w Amp](https://www.thomann.de/ie/revv_d20_amp_head_wh.htm)
+  2. [Kemper Profiling Amplifier](https://www.thomann.de/ie/kemper_profiling_amplifier_bk.htm)
+- Attenuators
+  1. [Two Notes Torpedo Captor](https://www.thomann.de/ie/two_notes_torpedo_captor_x_16.htm)
+- Multi FX
+  1. [Line6 HX Stomp](https://www.thomann.de/ie/line6_hx_stomp.htm)
+- Synth
+  1. [OP-1 portable synthesizer](https://teenage.engineering/store/op-1/)
 
 ### Coffee ☕
 
-- [3fe Coffee (Dublin)](https://3fe.com/)
-- [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
-- [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
-- [Velo Coffee (Cork)](https://velocoffee.ie/)
-- [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
-- ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+- Beans
+  - [3fe Coffee (Dublin)](https://3fe.com/)
+  - [Cloud Picker Coffee (Dublin)](https://cloudpickercoffee.ie/)
+  - [Ocaso Coffee (Salento, Colombia)](https://www.ocasocoffee.com/web/fresh-coffee/)
+  - [Velo Coffee (Cork)](https://velocoffee.ie/)
+- Tech
+  - [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
+  - ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ### Whiskey 🥃
 
@@ -92,11 +101,21 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ### Beer 🍺
 
 - [Whiplash Beer](http://www.whiplashbeer.com/)
-- Samuel Adams on Draft 😍
+- Samuel Adams on Draft
 - [Trouble Brewing - Sabotage](https://troublebrewing.ie/beers/sabotage/) (Tastes like Sam Adams)
 - Pilsner Urquell
 
-### Other 👕
+### Other 🎋
+
+#### Wear 👕
 
 - [MKBHD - Histogram](https://cottonbureau.com/products/mkbhd-histogram#/4793229/tee-men-standard-tee-vintage-black-tri-blend-s)
 - [MKBHD - Six Colors](https://cottonbureau.com/products/mkbhd-special-edition-six-colors#/3790005/tee-men-standard-tee-indigo-tri-blend-s)
+- 🈲 Uniqlo
+
+#### Interesting projects 🔬🧰
+
+- [An updated daily front page of The New York Times as artwork on your wall](https://alexanderklopping.medium.com/an-updated-daily-front-page-of-the-new-york-times-as-artwork-on-your-wall-3b28c3261478)
+- [Pwnagotchi: Deep reinforcement learning for wifi pwning!](https://pwnagotchi.ai/)
+- [DIY ISO box](http://www.amptone.com/diyisobox.htm)
+- [PiVPN](https://www.pivpn.io/)
