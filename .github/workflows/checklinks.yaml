@@ -1,3 +1,5 @@
+# This Github action will check for any dead external links
+# Output is saved to a links.log
 name: CheckLinks
 on: [push, pull_request]
 jobs:
