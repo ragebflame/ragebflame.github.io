@@ -17,7 +17,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - [Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
-- [The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)
+- ~~[The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)~~
 - ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
 - ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
