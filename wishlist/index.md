@@ -1,23 +1,23 @@
 ---
 layout: default
 title: Wishlist
-latest_update: 2021-12-07 19:57:00 +0100
+latest_update: 2022-01-04 16:16:00 +0100
 ---
 
 <h1 class="title">Wishlist</h1>
 
 A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.uk/hz/wishlist/ls/IYC1DEIBVM69?ref_=wl_share) I also update sometimes.
 
-💫*Last updated: 07/12/2021*
+💫*Last updated: 04/01/2022*
 
 <img alt="The list" src="/assets/img/remote/wishlist.webp" style="width: 100%;">
 
 ### Books 📚
 
 - [Blood, Sweat, and Pixels](https://www.amazon.co.uk/dp/0062651234/?coliid=I2JCNRSUYCAFFP&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
-- [Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)
 - [Bitmap books](https://www.bitmapbooks.co.uk/collections/all)
-- [The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)
+- ~~[The World Atlas of Coffee](http://www.theworldatlasofcoffee.com/)~~
+- ~~[Irish Peaks](https://irishpeaks.ie/product/irish-peaks-collection/)~~
 - ~~[The Game Console: A History In Photographs](https://www.amazon.co.uk/dp/1593277431/?coliid=I3R870HFD2LZ3B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 - ~~[Dune](https://www.amazon.co.uk/dp/0340960191/?coliid=IWF52FC73H1B&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it_im)~~
 - ~~[Foodheim: A Culinary Adventure](https://www.amazon.co.uk/Foodheim-Culinary-Adventure-Eric-Wareheim/dp/1984858521)~~
@@ -35,7 +35,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
 - Mice
-  1. [Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)
+  1. ~~[Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)~~
   2. [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
 - Keyboards
   1. [Keychron Q1 - Space Grey - Brown switches](https://www.keychron.com/products/keychron-q1?variant=39405021102169)
