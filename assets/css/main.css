@@ -92,6 +92,22 @@ p {
   margin: 0 0 1.5em;
 }
 
+figure {
+  line-height: 1.5em;
+  color: var(--black);
+  margin: 0 0 1.5em;
+  width: 100%;
+}
+
+figcaption {
+  display: block;
+  width: 80%;
+  margin: -0.1em auto 2em;
+  font-size: 16px;
+  text-align: center;
+  font-style: italic;
+}
+
 ::selection {
   background: var(--light-accent);
   color: var(--black);
@@ -434,6 +450,15 @@ h2 .feather {
   margin: -1em auto 2em;
   font-size: 16px;
   text-align: center;
+}
+
+.post figcaption {
+  display: block;
+  width: 80%;
+  margin: -1em auto 2em;
+  font-size: 16px;
+  text-align: center;
+  font-style: italic;
 }
 
 .post img.space-bottom {

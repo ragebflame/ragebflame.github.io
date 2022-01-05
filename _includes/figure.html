@@ -1,0 +1,26 @@
+<!--
+figure.html
+-->
+
+{% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace:
+".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %}
+
+<figure>
+  <picture>
+    <!-- Use the webp file -->
+    <source
+      srcset="/assets/img/remote/{{ webp_filename }}"
+      type="image/webp"
+      style="width: 100%"
+    />
+
+    <!-- Fallback to the file you added -->
+    <img
+      src="/assets/img/remote/{{ include.url }}"
+      alt="{{ include.alt }}"
+      style="width: 100%"
+    />
+  </picture>
+
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
