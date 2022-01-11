@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Wishlist
-latest_update: 2022-01-04 16:16:00 +0100
 ---
 
 <h1 class="title">Wishlist</h1>
@@ -10,7 +9,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 💫*Last updated: 04/01/2022*
 
-{% include figure.html url="wishlist.webp" alt="The list" caption="A list" %}
+{% include figure.html url="wishlist.webp" alt="The list" caption="" %}
 
 ### Books 📚
 
