@@ -5,7 +5,7 @@ tags:
   - programming
   - sysadmin
   - bash
-excerpt: This simple bash script will print the current status of any fail2ban jails on the system.
+excerpt: This bash script will print the current status of any fail2ban jails on a system.
 summary: A simple bash script to check the status of any fail2ban jails
 image: /assets/img/dan.webp
 ---

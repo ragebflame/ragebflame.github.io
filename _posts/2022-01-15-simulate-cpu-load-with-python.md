@@ -3,8 +3,8 @@ layout: post
 title: Simulate CPU load with Python
 tags:
   - programming
-excerpt: Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor.
-summary: This Python script will simulate CPU usage
+excerpt: This Python script will simulate CPU usage
+summary: Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor.
 image: /assets/img/python.webp
 ---
 
