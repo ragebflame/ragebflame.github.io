@@ -97,7 +97,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   - [Velo Coffee (Cork)](https://velocoffee.ie/)
   - [Anam Coffee (Clare)](https://www.anamcoffee.ie/product-category/coffee/)
 - Tech
-  - [Ember Mug²](https://ember.com/products/ember-mug-2-metallic-collection?variant=32813645594709)
+  - [Ember Mug²](https://eu.ember.com/products/ember-mug-2?variant=41481408512152)
   - ~~[AeroPress Coffee and Espresso Maker](https://www.amazon.co.uk/dp/B000GXZ2GS/?coliid=I3PL009N1759WB&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
   - ~~[Hario - Transparent Black Mini Mill Plus](https://www.amazon.co.uk/dp/B01GPMH590/?coliid=IPH3SGHYPJCB9&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
