@@ -119,8 +119,8 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 #### Wear 👕
 
-- [MKBHD - Histogram](https://cottonbureau.com/products/mkbhd-histogram#/4793229/tee-men-standard-tee-vintage-black-tri-blend-s)
-- [MKBHD - Six Colors](https://cottonbureau.com/products/mkbhd-special-edition-six-colors#/3790005/tee-men-standard-tee-indigo-tri-blend-s)
+- [MKBHD - Histogram](https://mkbhd.com/products/histogram-t-shirt-2)
+- [MKBHD - Six Colors](https://mkbhd.com/products/6-color-t-shirt)
 - 🈲 Uniqlo
 
 #### Interesting projects 🔬🧰
