@@ -335,6 +335,27 @@ th {
   margin: 0 0 1em 0;
 }
 
+/* Blinking cursor in title */
+
+@keyframes cursor-blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+#logo h1::after {
+  content: "";
+  width: 2px;
+  height: 18px;
+  border-radius: 1px;
+  background: #c55b61;
+  display: inline-block;
+  margin-left: 4px;
+  position: relative;
+  top: 2px;
+  animation: cursor-blink 2s step-start infinite;
+}
+
 #home p {
   color: var(--black);
   text-align: left;
