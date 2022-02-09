@@ -345,15 +345,14 @@ th {
 
 #logo h1::after {
   content: "";
-  width: 2px;
-  height: 18px;
+  width: 13px;
+  height: 3px;
   border-radius: 1px;
   background: #c55b61;
   display: inline-block;
-  margin-left: 4px;
+  margin-left: 1px;
   position: relative;
-  top: 2px;
-  animation: cursor-blink 2s step-start infinite;
+  animation: cursor-blink 1.5s step-start infinite;
 }
 
 #home p {
