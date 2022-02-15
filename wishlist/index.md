@@ -37,7 +37,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
   1. ~~[Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)~~
   2. [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
 - Keyboards
-  1. [Keychron Q1 - Space Grey - Brown switches](https://www.keychron.com/products/keychron-q1?variant=39405021102169)
+  1. [Keychron Q1 QMK | Knob Version - Navey Blue - Gateron G Pro Brown switches](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-knob-version?variant=39610589872217)
 - Mousepads
   1. [LTT Deskpad - 1000m x 400m](https://www.lttstore.com/collections/all-products/products/deskpad?variant=33074344525927)
   2. [QCK Heavy - 900m x 400m](https://steelseries.com/gaming-mousepads/qck-heavy-series?size=xxl)
