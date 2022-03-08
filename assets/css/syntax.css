@@ -5,7 +5,7 @@
   margin: 0;
 }
 .highlight {
-  background-color: #252835;
+  background-color: var(--code);
   color: #faf6e4;
 }
 .highlight .gl {
