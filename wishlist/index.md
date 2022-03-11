@@ -25,11 +25,12 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 🤖
 
+- [Steam Deck 512GB](https://store.steampowered.com/steamdeck)
 - [OAKO Standing desk](https://www.oakodenmark.dk/)
 - [Tile Pro (2022)](https://ie.tile.com/product/686597/pro-1-pack)
 - [Raspberry Pi 4 - 8GB](https://ie.farnell.com/raspberry-pi/rpi4-modbp-8gb/raspberry-pi-4-model-b-cortex/dp/3369503)
 - ~~[ONEGenug Headset Stand](https://www.amazon.co.uk/dp/B07JN1BGK9/?coliid=I1TOFC7S5QDNGE&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
-- ~~[iFixit Pro Tech Toolkit](https://www.amazon.co.uk/dp/B01GF0KV6G/?coliid=I1KTURGCX817IW&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+- ~~[iFixit Pro Tech Toolkit](https://eustore.ifixit.com/products/pro-tech-toolkit)~~
 
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
