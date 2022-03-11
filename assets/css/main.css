@@ -13,8 +13,10 @@ Light
 :root {
   --black: #1c1e26;
   --white: #f6f6f6;
-  --code: #222831;
-  --accent: #c55b61;
+  --code: #212730;
+  --code-alpha: hsla(218, 20%, 16%, 0.3);
+  --accent: #c5595e;
+  --accent-alpha: hsl(357, 48%, 56%, 0.7);
   --light-accent: #c9837e;
   --noise-size: 64;
 }
@@ -194,6 +196,12 @@ ol li {
   margin-top: 0.5em;
 }
 
+/*
+ol li::marker {
+  content: "🔹 ";
+}
+*/
+
 #topBar {
   display: flex;
   flex-direction: column;
@@ -296,7 +304,7 @@ h1.title {
 
 del {
   text-decoration: line-through;
-  background-color: var(--accent);
+  background-color: var(--accent-alpha);
   color: var(--white);
   padding: 0 4px;
 }

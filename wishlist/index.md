@@ -34,20 +34,20 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### Mice / Keyboards / Mousepads 🖱️⌨️
 
 - Mice
-  1. ~~[Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-005272.html)~~
-  2. [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
+  - ~~[Logitech Pro Wireless](https://www.logitechg.com/en-eu/products/gaming-mice/pro-wireless-mouse.910-00527- html)~~
+  - [Xtrfy M42 Retro](https://xtrfy.com/mice/m42-retro/)
 - Keyboards
-  1. [Keychron Q1 QMK - Knob Version - Navey Blue - Gateron G Pro Brown switches](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-knob-version?variant=39610589872217)
+  - [Keychron Q1 QMK - Knob Version - Navey Blue - Gateron G Pro Brown switches](https://www.keychron.com/products/keychron-q1-qmk-custom-mechanical-keyboard-knob-version?variant=39610589872217)
 - Mousepads
-  1. [LTT Deskpad - 1000m x 400m](https://www.lttstore.com/collections/all-products/products/deskpad?variant=33074344525927)
-  2. [QCK Heavy - 900m x 400m](https://steelseries.com/gaming-mousepads/qck-heavy-series?size=xxl)
+  - [LTT Deskpad - 1000m x 400m](https://www.lttstore.com/collections/all-products/products/deskpad?variant=33074344525927)
+  - [QCK Heavy - 900m x 400m](https://steelseries.com/gaming-mousepads/qck-heavy-series?size=xxl)
 
 ##### Compute 💻🎮
 
 - GPUs
-  1. [Nvidia GeForce RTX 3080 Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
+  - [Nvidia GeForce RTX 3080 Strix](https://rog.asus.com/graphics-cards/graphics-cards/rog-strix/rog-strix-rtx3080-o10g-gaming-model/)
 - 1440p Monitors
-  1. [LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)
+  - [LG UltraGear 27GL850-B](https://geizhals.eu/lg-ultragear-27gl850-b-a2077529.html?t=alle&plz=&va=b&vl=de&hloc=at&hloc=de&hloc=pl&hloc=uk&hloc=eu&v=l)
 
 ##### Smart Home 🏠
 
@@ -58,35 +58,35 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 ##### TVs 📺
 
 - 65" or 55"
-  1. [OLED - LG C1](https://www.rtings.com/tv/reviews/lg/c1-oled)
-  2. [QLED - Samsung QN90A](https://www.rtings.com/tv/reviews/samsung/qn90a-qled)
+  - [OLED - LG C1](https://www.rtings.com/tv/reviews/lg/c1-oled)
+  - [QLED - Samsung QN90A](https://www.rtings.com/tv/reviews/samsung/qn90a-qled)
 
 ### Audio gear 🔊
 
 - Microphones
-  1. [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
+  - [Shure SM7B Vocal Dynamic Microphone](https://www.amazon.co.uk/dp/B007A3W6B6/?coliid=I1OOF88LEJPLW2&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)
 - Interfaces
-  1. [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
-  2. [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
+  - [Focusrite Scarlett 2i2 3rd](https://www.amazon.co.uk/dp/B07QR73T66/?coliid=I26CMKS5EM9BQV&colid=IYC1DEIBVM69&psc=0&ref_=lv_ov_lig_dp_it)
+  - [Universal Audio Apollo](https://www.uaudio.com/audio-interfaces/apollo-twin-x.html)
 - Headphones
-  1. ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
+  - ~~[Razer Blackshark V2](https://www.rtings.com/headphones/reviews/razer/blackshark-v2)~~
 - Earphones
-  1. ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
+  - ~~[Samsung Galaxy Buds+](https://www.amazon.co.uk/dp/B0842QKN99/?coliid=I1HYFU900G3329&colid=IYC1DEIBVM69&psc=1&ref_=lv_ov_lig_dp_it)~~
 
 ##### Instruments / Pedals / Amps 🎸🎹
 
 - Loopers ➰
-  1. [tc electronic Ditto + Looper](https://www.thomann.de/ie/tc_electronic_ditto_looper.htm)
-  2. [Boss RC-5 Loop pedal](https://www.thomann.de/ie/boss_rc_5_loop_station.htm)
+  - [tc electronic Ditto + Looper](https://www.thomann.de/ie/tc_electronic_ditto_looper.htm)
+  - [Boss RC-5 Loop pedal](https://www.thomann.de/ie/boss_rc_5_loop_station.htm)
 - Amps
-  1. [REVV D20 20w Amp](https://www.thomann.de/ie/revv_d20_amp_head_wh.htm)
-  2. [Kemper Profiling Amplifier](https://www.thomann.de/ie/kemper_profiling_amplifier_bk.htm)
+  - [REVV D20 20w Amp](https://www.thomann.de/ie/revv_d20_amp_head_wh.htm)
+  - [Kemper Profiling Amplifier](https://www.thomann.de/ie/kemper_profiling_amplifier_bk.htm)
 - Attenuators
-  1. [Two Notes Torpedo Captor](https://www.thomann.de/ie/two_notes_torpedo_captor_x_16.htm)
+  - [Two Notes Torpedo Captor](https://www.thomann.de/ie/two_notes_torpedo_captor_x_16.htm)
 - Multi FX
-  1. [Line6 HX Stomp](https://www.thomann.de/ie/line6_hx_stomp.htm)
+  - [Line6 HX Stomp](https://www.thomann.de/ie/line6_hx_stomp.htm)
 - Synth
-  1. [OP-1 portable synthesizer](https://teenage.engineering/store/op-1/)
+  - [OP-1 portable synthesizer](https://teenage.engineering/store/op-1/)
 
 ### Coffee ☕
 

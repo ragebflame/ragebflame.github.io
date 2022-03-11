@@ -42,6 +42,6 @@ Status for the jail: sshd
    `- Banned IP list:   <redacted IPs...>
 ```
 
-This particular output is from a Pihole. For more information on configuring jails see [this forum post](https://discourse.pi-hole.net/t/securing-pihole/1155/7) over on the Pihole discource.
+This particular output is from a Pihole. For more information on configuring jails for a Pihole instance, see [this forum post](https://discourse.pi-hole.net/t/securing-pihole/1155/7) over on the Pihole discource.
 
 I tend to run this script using Ansible across all my local machines that have external services exposed. I'm hoping to detail that in an upcoming blog post.
