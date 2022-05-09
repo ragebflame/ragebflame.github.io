@@ -1,10 +1,11 @@
 #!/bin/bash
 #==============================================================================
 #title           :generate_webp.sh
+#description     :Converts still and gif images to webp. Resizes if they are large
 #usage           :Run this script with WSL on Windows or Bash shell on Unix/Linux
 #                :This is intended to be run from the root website directory
 #                :Adjust target location for conversion as needed
-#prerequisite    :WebP tools installed
+#prerequisite    :webp,imagemagick and exiv2 installed
 #==============================================================================
 
 TARGET_PATH="$(cd "$(dirname "$0")" && pwd)/assets/img/remote/*"
@@ -12,7 +13,11 @@ TARGET_PATH="$(cd "$(dirname "$0")" && pwd)/assets/img/remote/*"
 for file in $TARGET_PATH; do
 
     DUP_CHECK=$(readlink -f "$file" | sed 's/\.[^.]*$//')
+    IMAGE_SIZE=$(identify -format '%w' "$file")
 
+    # Strip EXIF data from all images
+    echo "Stripping EXIF from $(basename "$file")..."
+    exiv2 rm "$file"
     # Skip webps
     if [[ $file == *.webp ]]; then
         continue
@@ -28,9 +33,14 @@ for file in $TARGET_PATH; do
             -mt -quiet
     # Convert still images
     elif [[ $file == *.jpg ]] || [[ $file == *.jpeg ]] || [[ $file == *.png ]] || [[ $file == *.tiff ]]; then
+        # Resize large images (Width greater than 800 pixels)
+        if [ "${IMAGE_SIZE}" -gt 800 ]; then
+            echo "Image width greater than 800, resizing..."
+            RESIZE='-resize 800 0'
+        fi
         echo "Converting ./assets/img/remote/$(basename "${file}") --> webp"
-        cwebp -q 90 "$(echo "$file" | sed -e 's/\*/ /g' -e 's/^"//' -e 's/"$//')" \
+        cwebp -q 100 "$(echo "$file" | sed -e 's/\*/ /g' -e 's/^"//' -e 's/"$//')" \
             -o "$(echo "$file" | sed -e 's/\*/ /g' -e 's/^"//' | sed 's/.[^.]*$//').webp" \
-            -mt -quiet
+            $RESIZE -mt -quiet
     fi
 done
