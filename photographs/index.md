@@ -22,3 +22,7 @@ title: Photographs
 {% include figure.html url="photo_07.webp" alt="Scattery Island ~ 2020" caption="Scattery Island ~ 2020" %}
 
 {% include figure.html url="photo_08.webp" alt="Shannonbridge ~ 2019" caption="Shannonbridge ~ 2019" %}
+
+{% include figure.html url="photo_10.webp" alt="Alcatraz Island ~ 2018" caption="Alcatraz Island ~ 2018" %}
+
+{% include figure.html url="photo_11.webp" alt="Madrid ~ 2018" caption="Madrid ~ 2018" %}
