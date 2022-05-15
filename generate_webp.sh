@@ -15,9 +15,12 @@ for file in $TARGET_PATH; do
     DUP_CHECK=$(readlink -f "$file" | sed 's/\.[^.]*$//')
     IMAGE_SIZE=$(identify -format '%w' "$file")
 
-    # Strip EXIF data from all images
-    echo "Stripping EXIF from $(basename "$file")..."
-    exiv2 rm "$file"
+    # Strip EXIF data from still images first
+    if [[ $file != *.gif ]] || [[ $file != *.webp ]]; then
+        echo "Stripping EXIF from $(basename "$file")..."
+        exiv2 rm "$file"
+    fi
+
     # Skip webps
     if [[ $file == *.webp ]]; then
         continue
