@@ -28,7 +28,7 @@ Aeropress is setup as standard. Over cup, on a scales with a paper filter.
 
 1. Set Hario Slim grinder @ 8 clicks. For grind size [see below](#grind-sizes-for-hario-slim)
 2. Measure 13g coffee. Spray beans with water before grind to avoid static
-3. Grind Beans and add to Aeropress
+3. Grind beans and add to Aeropress
 4. Add boiling water to ~215g weight
 5. Seal the Aeropress with plunger (total weight is now ~300g)
 6. Let sit for 2 minutes
