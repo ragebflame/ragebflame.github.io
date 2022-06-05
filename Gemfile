@@ -16,4 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "kramdown-syntax-coderay", "~> 1.0"
   gem "html-proofer"
+  gem "jekyll-relative-links"
 end
