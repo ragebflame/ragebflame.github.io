@@ -3,7 +3,8 @@ figure.html
 -->
 
 {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace:
-".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %}
+".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %} {%
+capture image%}/assets/img/remote/{{ include.url }}{% endcapture %}
 
 <figure>
   <picture>
@@ -11,14 +12,18 @@ figure.html
     <source
       srcset="/assets/img/remote/{{ webp_filename }}"
       type="image/webp"
-      style="width: 100%"
+      width="{% imagesize image:width %}"
+      height="{% imagesize image:height %}"
+      style="max-width: 100%; height: auto"
     />
 
     <!-- Fallback to the file you added -->
     <img
       src="/assets/img/remote/{{ include.url }}"
       alt="{{ include.alt }}"
-      style="width: 100%"
+      width="{% imagesize image:width %}"
+      height="{% imagesize image:height %}"
+      style="max-width: 100%; height: auto"
     />
   </picture>
 

@@ -17,4 +17,5 @@ group :jekyll_plugins do
   gem "kramdown-syntax-coderay", "~> 1.0"
   gem "html-proofer"
   gem "jekyll-relative-links"
+  gem "jekyll-image-size"
 end
