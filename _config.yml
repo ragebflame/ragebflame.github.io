@@ -32,6 +32,7 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
   - kramdown-syntax-coderay
+  - jekyll-image-size
 
 # Kramdown settings
 kramdown:
