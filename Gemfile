@@ -11,6 +11,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 # gem "jekyll", "~> 4.1.1"
+# For the latest version check: https://pages.github.com/versions/
 gem "github-pages", "~> 226", group: :jekyll_plugins
 
 # If you have any plugins, put them here!

@@ -4,8 +4,7 @@ figure.html
 
 {% assign webp_filename = include.url | replace: ".jpg", ".webp" | replace:
 ".jpeg", ".webp" | replace: ".png", ".webp" | replace: ".tiff", ".webp" %} {%
-capture image %}/assets/img/remote/{{ include.url }}{% endcapture %} {%
-imagesize image %}
+capture image %}/assets/img/remote/{{ include.url }}{% endcapture %}
 
 <figure>
   <picture>
@@ -13,8 +12,6 @@ imagesize image %}
     <source
       srcset="/assets/img/remote/{{ webp_filename }}"
       type="image/webp"
-      width="{% imagesize image:width %}"
-      height="{% imagesize image:height %}"
       style="max-width: 100%; height: auto"
     />
 
@@ -22,8 +19,6 @@ imagesize image %}
     <img
       src="/assets/img/remote/{{ include.url }}"
       alt="{{ include.alt }}"
-      width="{% imagesize image:width %}"
-      height="{% imagesize image:height %}"
       style="max-width: 100%; height: auto"
     />
   </picture>
