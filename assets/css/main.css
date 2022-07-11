@@ -18,6 +18,7 @@ Light
   --accent: #c5595e;
   --accent-alpha: hsl(357, 48%, 56%, 0.7);
   --light-accent: #c9837e;
+  --hover: #ffb4a9;
   --noise-size: 64;
 }
 
@@ -132,7 +133,7 @@ a {
 a:focus,
 a:hover {
   text-decoration: none;
-  color: var(--white);
+  color: var(--hover);
 }
 
 a svg {
