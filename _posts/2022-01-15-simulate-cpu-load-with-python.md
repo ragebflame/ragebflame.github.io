@@ -10,9 +10,9 @@ image: /assets/img/python.webp
 
 {% include figure.html url="python.webp" alt="sssss" caption="" %}
 
-While testing out some home automation code on my Raspberry Pi I noticed it was pretty CPU intensive. Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor. I wanted to keep an eye on temperatures, as well as stability under full load so I needed to simulate CPU usage.
+While testing out some home automation code on my Raspberry Pi, I noticed it was pretty CPU intensive. Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor. I wanted to keep an eye on temperatures, as well as stability under full load, so I needed to simulate CPU usage.
 
-This Python script will do the job. It uses the multiprocessing library which you can read more about [here](https://docs.python.org/2/library/multiprocessing.html).
+This Python script will do the job. It uses the multiprocessing library, which you can read more about [here](https://docs.python.org/2/library/multiprocessing.html).
 
 ```python
 #!/usr/bin/env python
