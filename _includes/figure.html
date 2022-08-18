@@ -12,14 +12,14 @@ capture image %}/assets/img/remote/{{ include.url }}{% endcapture %}
     <source
       srcset="/assets/img/remote/{{ webp_filename }}"
       type="image/webp"
-      style="max-width: 100%; height: auto"
+      style="max-width: 100%; height: {{ include.h }}px; width: {{ include.w }}px"
     />
 
     <!-- Fallback to the file you added -->
     <img
       src="/assets/img/remote/{{ include.url }}"
       alt="{{ include.alt }}"
-      style="max-width: 100%; height: auto"
+      style="max-width: 100%; height: {{ include.h }}px; width: {{ include.w }}px"
     />
   </picture>
 

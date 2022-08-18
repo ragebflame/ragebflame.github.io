@@ -9,7 +9,7 @@ A list of items I'd like to obtain. An [Amazon wish list](https://www.amazon.co.
 
 💫*Last updated: 04/01/2022*
 
-{% include figure.html url="wishlist.webp" alt="The list" caption="" %}
+{% include figure.html url="wishlist.webp" alt="The list" caption="" w="480" h="272" %}
 
 ### Books 📚
 
