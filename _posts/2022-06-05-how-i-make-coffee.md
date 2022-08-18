@@ -9,7 +9,7 @@ summary: Coffee ☕. Sweet black nectar of the gods. Here’s how I make it.
 image: /assets/img/dan.webp
 ---
 
-{% include figure.html url="cup-of-coffee.webp" alt="coffee" caption="" w="640" h="410" %}
+{% include figure.html url="cup-of-coffee.webp" alt="coffee" caption="" %}
 
 Coffee. Sweet black nectar of the gods. Here's how I make it.
 
@@ -53,7 +53,7 @@ The [Hario Slim](https://www.hario.co.uk/products/hario-mini-mill-slim-hand-coff
 | Moka pot           | 9 clicks                              |
 | Chemex             | 9 clicks                              |
 
-{% include figure.html url="coffee-grind-settings-for-hario-mini-mill.webp" alt="Grind sizes" caption="" w="800" h="532" %}
+{% include figure.html url="coffee-grind-settings-for-hario-mini-mill.webp" alt="Grind sizes" caption="" %}
 
 This is taken from a good guide [here](https://howchoo.com/coffee/how-to-adjust-your-hario-mini-mill-coffee-grinder).
 

@@ -8,7 +8,7 @@ summary: Time to bump up the overclock to squeeze more performance out of the Br
 image: /assets/img/python.webp
 ---
 
-{% include figure.html url="python.webp" alt="sssss" caption="" w="640" h="446" %}
+{% include figure.html url="python.webp" alt="sssss" caption="" %}
 
 While testing out some home automation code on my Raspberry Pi, I noticed it was pretty CPU intensive. Time to bump up the overclock to squeeze more performance out of the Broadcom Arm7 processor. I wanted to keep an eye on temperatures, as well as stability under full load, so I needed to simulate CPU usage.
 
