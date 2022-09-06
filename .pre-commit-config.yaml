@@ -20,9 +20,9 @@ repos:
     hooks:
       - id: prettier
   # Convert images in /assets/img/remote to webP
-  - repo: local
-    hooks:
-      - id: generate_webp
-        name: "Convert remote images to WebP"
-        entry: ./generate_webp.sh
-        language: script
+  #- repo: local
+  #  hooks:
+  #    - id: generate_webp
+  #      name: "Convert remote images to WebP"
+  #      entry: ./generate_webp.sh
+  #      language: script
